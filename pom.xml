@@ -12,7 +12,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<version.log4j>2.9.1</version.log4j>
-		<version.commons-io>2.4</version.commons-io>
+		<version.commons-io>2.7</version.commons-io>
 		<version.commons-lang3>3.5</version.commons-lang3>
 		<version.commons-httpclient>3.1</version.commons-httpclient>
 		<version.commons-logging>1.2</version.commons-logging>
